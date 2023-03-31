@@ -1,0 +1,5 @@
+ipch filter=lfs diff=lfs merge=lfs -text
+Debug filter=lfs diff=lfs merge=lfs -text
+DrawDemo filter=lfs diff=lfs merge=lfs -text
+DrawDemo.sdf filter=lfs diff=lfs merge=lfs -text
+DrawDemo.sln filter=lfs diff=lfs merge=lfs -text
